@@ -1,4 +1,4 @@
-/.dapper
+*.dapper
 /.idea
 /bin
 /dist
