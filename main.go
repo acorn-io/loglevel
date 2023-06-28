@@ -15,7 +15,7 @@ import (
 )
 
 var (
-	DefaultSocketLocation = "/tmp/log.sock"
+	DefaultSocketLocation = "\x00loglevel"
 	VERSION               = "dev"
 )
 

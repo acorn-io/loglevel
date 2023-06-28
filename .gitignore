@@ -1,4 +1,5 @@
-/.dapper
+*.dapper
+/.idea
 /bin
 /dist
 *.swp
